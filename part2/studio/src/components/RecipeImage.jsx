@@ -1,6 +1,14 @@
+import recipedata from "./recipe.json";
+import "./styling.css";
+
 function RecipeImage() {
-   return;
- }
+  const recipeImage = (
+    <div key={recipedata[0].name}>
+      <img src={recipedata[0].recipeImage} alt={recipedata[0].name} className="recipeImage" />
+    </div>
+  );
+  return <div>{recipeImage}</div>;
+}
  
  export default RecipeImage;
  

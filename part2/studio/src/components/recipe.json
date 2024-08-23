@@ -1,17 +1,32 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
-     "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+     "name": "Pork gyoza",
+     "author": "Beth",
+     "description": "hese tasty little dumplings are great to keep in your freezer so you can cook a few at a time to add to add to your meal.",
+     "website": "https://www.budgetbytes.com/pork-gyoza/",
+     "recipeImage": "https://www.budgetbytes.com/wp-content/uploads/2016/02/Pork-Gyoza-above.jpg",
+     "authorImage": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Beth-2022-3-268x268.jpg",
+    "ingredients": [
+      {
+        "id": 1,
+        "ingredientName": "wonton wrappers"
+      },
+      {
+        "id": 2,
+        "ingredientName": "ground pork"
+      },
+      {
+        "id": 3,
+        "ingredientName": "cabbage" 
+      },
+      {
+        "id": 4,
+        "ingredientName": "ginger"
+      },
+      {
+        "id": 5,
+        "ingredientName": "garlic"
+      }
      ]
    }
  ]
