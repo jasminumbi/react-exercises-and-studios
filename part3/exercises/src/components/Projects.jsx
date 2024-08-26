@@ -1,4 +1,4 @@
-import data from '../data.json';
+import data from './../data.json';
 import { useState } from 'react';
 
 export default function MyProjects() {
@@ -9,7 +9,7 @@ export default function MyProjects() {
    {
       setIndex(index + 1);
    }
-   else
+   else 
    {
       setIndex(0);
    }
@@ -17,7 +17,7 @@ export default function MyProjects() {
 
   let projects = data.projects;
   let project = projects[index];
-
+  
   return (
     <div>
       <button onClick={handleClick}>
